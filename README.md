@@ -18,12 +18,8 @@ se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 
 - npm init
 - npm install
-- npm run start
-- importar bootstrap a src/scss/styles.scss
-- importar js a src/js/main.js
-- Crear un archivo index.html en src
-- enlazar hoja de estilos a index.html "./scss/styles.scss"
-- inclir js script en body de index.html "./js/main.js"
+- npm run start para developers
+- npm run build para crear carpeta dist con proyecto final
 
 ## Uso
 
