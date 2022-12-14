@@ -1,0 +1,21 @@
+{
+	"name": "dev-parcel",
+	"version": "1.0.0",
+	"description": "",
+	"source": "./src/index.html",
+	"scripts": {
+		"start": "parcel",
+		"build": "parcel build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.8.1",
+		"parcel": "^2.8.1"
+	},
+	"dependencies": {
+		"@popperjs/core": "^2.11.6",
+		"bootstrap": "^5.2.3"
+	}
+}
