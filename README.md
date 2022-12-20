@@ -16,7 +16,8 @@ se requiere de conocimientos basicos de CSS, HTML ademas de usar node.js
 
 ## Installación y como empezar
 
-- npm init
+### nodejs debe estar instalado
+
 - npm install
 - npm run start para developers
 - npm run build para crear carpeta dist con proyecto final
